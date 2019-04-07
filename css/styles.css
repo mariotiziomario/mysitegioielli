@@ -1,0 +1,199 @@
+
+body{
+
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  margin: 10px 50px 10px 50px;
+
+}
+
+h1{
+
+  background-color: #f3dcad;
+  border-radius: 250px;
+  font-size: 80px;
+  width: 30%;
+  margin: 0 auto 0 auto;
+
+}
+
+h2{
+
+  background-color: #e44985;
+  border-radius: 250px;
+  font-size: 4em;
+  width: 30%;
+  margin: 40px auto 0 auto;
+
+}
+
+h3{
+ font-size: 50px;
+ margin: 0;
+
+
+}
+
+.paddingh3{
+  padding: 50px;
+}
+
+p{
+ font-size: 1.3rem;
+ font-family: 'Montserrat', sans-serif;
+
+
+}
+
+.p-sottotesti{
+  text-align: justify;
+}
+
+a{
+  font-size: 40px;
+  margin: 50px auto 0 auto;
+}
+
+
+.top-container{
+  background-color: #f8b739;
+  position: relative;
+  padding-top: 50px;
+  height: 600px;
+  margin: auto;
+}
+
+.middle-container{
+  background-color: #f8b739;
+
+  margin: auto;
+
+
+}
+
+.bottom-container{
+  background-color: #f3dcad;
+  position: relative;
+  padding-top: 50px;
+
+}
+
+.p-center{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.3rem;
+  width: 50%;
+  margin: 40px auto 0 auto;
+  padding: 30px;
+
+}
+
+.jew1{
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  font-style: italic;
+  color: #f3dcad;
+  width: 20%;
+  margin: 0 auto 0 auto;
+  position: absolute;
+  left: 220px;
+  bottom: 120px;
+}
+
+
+.top-cloud{
+
+  position: absolute;
+  top: 150px;
+  right:350px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 350px;
+  top: 200px;
+}
+
+.mountain{
+  position: absolute;
+  bottom: 0;
+  left: 500px;
+}
+
+.img_veronica{
+  position: relative;
+  top: 20px;
+  height: 200px;
+}
+
+.img_jewels{
+  position: relative;
+  top: 10px;
+  height: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.img_ciond{
+  position: relative;
+  top: 10px;
+  height: 200px;
+  float: right;
+  margin-left:  30px;
+}
+
+
+.profile{
+  background-color: #f3dcad;
+
+}
+
+.skills{
+
+  background-color: #f8b739;
+}
+
+.skill-row{
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+}
+
+
+
+
+.contact-me{
+  background-color: #f3dcad;
+  padding-top: 20px;
+}
+
+.btn{
+   text-decoration: none;
+   color: #f3dcad;
+}
+
+.button{
+  background-color:#e44985;
+  font-family: 'Montserrat', sans-serif;
+  border: none;
+  border-radius: 25px;
+}
+
+.button:hover{
+  color: #f8b739;
+}
+
+.footer-link {
+  text-decoration: none;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+.footer-link:hover{
+  color: #e44985;
+}
+
+.TitoliH2{
+  color: #f3dcad;
+}
